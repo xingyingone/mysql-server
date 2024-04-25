@@ -1,4 +1,4 @@
-#ifndef SQL_ITERATORS_ROW_ITERATOR_H_
+﻿#ifndef SQL_ITERATORS_ROW_ITERATOR_H_
 #define SQL_ITERATORS_ROW_ITERATOR_H_
 
 /* Copyright (c) 2018, 2022, Oracle and/or its affiliates.

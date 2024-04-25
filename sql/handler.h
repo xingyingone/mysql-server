@@ -1,4 +1,4 @@
-#ifndef HANDLER_INCLUDED
+﻿#ifndef HANDLER_INCLUDED
 #define HANDLER_INCLUDED
 
 /*

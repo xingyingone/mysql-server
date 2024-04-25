@@ -1,4 +1,4 @@
-#ifndef SQL_SELECT_INCLUDED
+﻿#ifndef SQL_SELECT_INCLUDED
 #define SQL_SELECT_INCLUDED
 
 /* Copyright (c) 2000, 2022, Oracle and/or its affiliates.

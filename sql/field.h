@@ -1,4 +1,4 @@
-#ifndef FIELD_INCLUDED
+﻿#ifndef FIELD_INCLUDED
 #define FIELD_INCLUDED
 
 /* Copyright (c) 2000, 2022, Oracle and/or its affiliates.

@@ -1,4 +1,4 @@
-#ifndef SQL_PACK_ROWS_H_
+﻿#ifndef SQL_PACK_ROWS_H_
 #define SQL_PACK_ROWS_H_
 
 /* Copyright (c) 2020, 2022, Oracle and/or its affiliates.

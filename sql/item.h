@@ -1,4 +1,4 @@
-#ifndef ITEM_INCLUDED
+﻿#ifndef ITEM_INCLUDED
 #define ITEM_INCLUDED
 
 /* Copyright (c) 2000, 2022, Oracle and/or its affiliates.
